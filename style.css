@@ -1,0 +1,180 @@
+﻿ul
+{
+	margin-top: 10px;
+	margin-bottom: 5px;
+	list-style-type: none;
+	color: #444455;
+}
+p
+{
+	margin-bottom: 20px;
+}
+body 
+{
+	background-color:#6677AA;
+}
+h4
+{
+	border-bottom:1px solid #999999;
+	font-size: 15px;
+	color: #555599;
+	padding-left: 5px;
+	margin: 10px 0 5px 0;
+}
+h3
+{
+	border-bottom:1px solid #999999;
+	color: #555599;
+	font-size: 23px;
+	padding-left: 10px;
+	margin-bottom: 5px;
+	margin-top: 10px;
+}
+h2
+{
+	font-size: 18px;
+}
+img
+{
+	text-decoration: none;
+	border: none;
+}
+td
+{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.email
+{
+	text-decoration: none;
+	font-size: 15px;
+	display: block;
+	color: #000077;
+	margin: 5px;
+}
+.smalltables
+{
+	border: 2px inset #999999;
+	margin-bottom: 15px;
+}
+.maintopics
+{
+	margin-bottom: 50px;
+	margin-top: 0px;
+	height: 500px;
+	background-color:#BBBBBB;
+	border: 4px inset #999999;
+	padding: 10px 10px 10px 10px;
+}
+.sidepictures
+{
+	margin-left: 25px;
+}
+.mainpicture
+{
+	margin: 25px 0 0 50px;
+}
+.firsttitle
+{
+	font-size: 20px;
+	font-weight: bold;
+	padding-bottom: 5px;
+}
+.secondtitle
+{
+	font-size: 20px;
+	text-align: left;
+	margin-bottom: 0px;
+	margin-left:10px;
+}
+.subsection
+{
+	font-size: 22px;
+	color: #444455;
+}
+#title
+{
+	border: 4px inset #999999;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px;
+	padding: 75px 75px 75px 75px;
+	background-color:#BBBBBB;
+	color: #444455;
+}
+#names
+{
+	font-size: 15px;
+	color: #444455;
+	margin-bottom: 0;
+	margin-top: 10px;
+	border-top: 1px solid #999999;
+}
+#archivetitle
+{
+	text-align: center;	
+}
+#sidebar
+{
+	font-size: 15px;
+	color: #550000;
+	margin-top: 50px;
+	background-image: url(images/background2.jpg);
+	border: 4px inset #999999;
+}
+#leftcolumn
+{
+	background-color:#BBBBBB;
+	border: 4px inset #999999;
+	float: left;
+	margin-top: 50px;
+	width: 200px;
+}
+#rightcolumn
+{
+	color: #444455;
+	float: right;
+	width: 200px;
+	margin: 50px 0 15px 0;
+	background-color:#BBBBBB;
+	border: 4px inset #999999;
+}
+#centercolumn
+{
+	color: #444455;
+	margin: 0 200px 0 170px;
+	padding: 50px 50px 100px 100px;
+
+}
+.archive
+{
+	margin-bottom: 50px;
+	margin-top: 0px;
+	background-color:#BBBBBB;
+	border: 4px inset #999999;
+	padding: 10px 10px 10px 10px;
+}
+.nav
+{
+	text-decoration: none;
+	font-size: 17px;
+	color: #444455;
+	display: block;
+	margin-top: 10px;
+}
+.navBar 
+{
+	list-style-type: none;
+	padding-left: 0px;
+	margin-bottom: 150px;
+	margin-top: 10px;
+}
+a.nav:link 
+{ 
+	color: #444455;
+	text-decoration: none;
+}	
+a.nav:hover
+{ 
+	color: #ffffff;
+}
